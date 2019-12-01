@@ -35,7 +35,7 @@ Note: this config file works fine if pwsh for linux is used, and PSES is extract
 		    "-Command",
 		    "/home/george/Downloads/PowerShellEditorServices/PowerShellEditorServices/Start-EditorServices.ps1",
 		    "-LogPath", "/home/george/pses-sublime.log",  // the path itself is not relevant
-		    "-LogLevel", "Diagnostic",
+		    "-LogLevel", "Normal", // can be "Diagnostic" for more details
 		    "-SessionDetailsPath", "/home/george/session-sublime.json",  // the path itself is not relevant
 		    "-FeatureFlags", "@()",
 		    "-HostName", "'Sublime Text'",
