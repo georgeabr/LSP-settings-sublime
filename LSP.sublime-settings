@@ -12,7 +12,7 @@ How-to guide
 1. Download and extract the latest (stable) release of PowerShellEditorServices
 2. Install Sublime package - Powershell (for syntax highlight)
 3. Install Sublime package - LSP (for intellisense, etc.)
-3. In Sublime menu: Preferences -> Package settings -> LSP - Settings. Edit this file as fit.
+3. In Sublime menu: Preferences -> Package settings -> LSP -> Settings. Edit this file as fit.
 
 Note: this config file works fine if pwsh for linux is used, and PSES is extracted in "/home/george/Downloads"
 
