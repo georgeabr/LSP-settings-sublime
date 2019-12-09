@@ -17,7 +17,7 @@ https://github.com/PowerShell/PowerShellEditorServices
 https://packagecontrol.io/packages/PowerShell  
 3. Install Sublime package - LSP (for intellisense, etc.).  
 https://packagecontrol.io/packages/LSP  
-4. In Sublime menu: Preferences -> Package settings -> LSP -> Settings. Edit this file as fit.
-5. Contents of file `LSP.sublime-settings` can be copied over the config in step 4.
+4. Edit the LSP settings file. In Sublime menu: `Preferences -> Package settings -> LSP -> Settings`.
+5. Contents of file `LSP.sublime-settings` can be copied over the settings file in previous step.
 
 Happy coding.
