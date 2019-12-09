@@ -1,7 +1,8 @@
 # LSP-settings-sublime
 LSP settings for Sublime text with Powershell.  
 See link below on integration of LSP Powershell with Sublime text 3:  
-https://lsp.readthedocs.io/en/latest/#powershell
+https://lsp.readthedocs.io/en/latest/#powershell  
+https://github.com/tomv564/LSP
 
 # Prerequisites
 1. Powershell core executable `pwsh` should be in your PATH.
