@@ -1,4 +1,4 @@
-# LSP-settings-sublime
+# LSP settings for Sublime text 3
 LSP settings for Sublime text 3 with Powershell.  
 See link below on integration of LSP Powershell with Sublime text 3:  
 1. https://lsp.readthedocs.io/en/latest/#powershell  
